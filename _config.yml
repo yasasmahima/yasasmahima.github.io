@@ -17,14 +17,14 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-linkedin: ""
+# linkedin: "#"
 github: "yasasmahima"
-researchgate: "#"
-orcid: ""
-google_analytics: ""
-scopus: ""
-google_scholar: ""
-flickr: ""
+# researchgate: "#"
+# orcid: "#"
+# google_analytics: "#"
+# scopus: "#"
+# google_scholar: "#"
+# flickr: "#"
 
 
 # highlighter: rouge
