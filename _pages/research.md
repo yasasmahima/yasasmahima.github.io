@@ -6,9 +6,9 @@ published: true
 ---
 
 ## Research
-My research interests fall in two macro-areas of computer science and engineering:
+<!-- My research interests fall in two macro-areas of computer science and engineering:
 - infrastructures and architectures for distributed systems
 - algorithms and optimization
 
 Focuses I have interested on are:
-- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
+- [Edge Intelligence]({{site.baseurl}}/research/edge-ai) -->

@@ -7,7 +7,7 @@ published: true
 
 ## Journal Papers
 
-#### 2020
+<!-- #### 2020
 0. Lorenzo Carnevale and Antonio Celesti and Giacomo Fiumara and Antonino Galletta and Massimo Villari. "*Investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network*". Applied Soft Computing, Elsevier, vol. 90, pp. 106155, ISSN: 1568-4946 (May 2020) (doi: [10.1016/j.asoc.2020.106155](https://doi.org/10.1016/j.asoc.2020.106155)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202005-paper-journal-elsevier-applied_soft_computing.bib)]
 
 0. Sandra Schüssler and Julia Zuschnegg and Lucas Paletta and Maria Fellner and Gerald Lodron and Josef Steiner and Sandra Pansy-Resch and Lara Lammer and Dimitrios Prodromou and Sebastian Brunsch and Magdalena Holter and Lorenzo Carnevale and Silvia Russegger. "*The Effects of a Humanoid Socially Assistive Robot Versus Tablet Training on Psychosocial and Physical Outcomes of Persons With Dementia: Protocol for a Mixed Methods Study*". JMIR Research Protocols, JMIR Publications, vol. 9-2, pp. 14927, ISSN: 1929-0748 (February 2020) (doi: [10.2196/14927](https://doi.org/10.2196/14927)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202002-paper-journal-jmir-research_protocols.bib)]
@@ -90,4 +90,4 @@ published: true
 
 #### 2020
 0. Massimo Villari and Alina Mihaela Buzachis and Lorenzo Carnevale and Antonino Galletta and Francesco Martella and Claudio Cincotta. "*Sistema di comunicazione che utilizza una rete mesh*". Ministero dello Sviluppo Economico, Direzione  Generale per la Tutela della Priprietà Industriale, Ufficio Italiano Brevetti e Marchi. Identifier: 102018000010500
-{: reversed="reversed"}
+{: reversed="reversed"} -->
