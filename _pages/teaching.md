@@ -10,8 +10,12 @@ published: true
 - Object Oriented Programming : 5COSC019C
 - Database Systems : 5COSC020C
 
-<!-- ## Final Year Research Projects (Co-) Supervisor -->
+## Final Year Research Projects (Co-) Supervisor
+1. [Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*", University of Westminster.
+- Thesis Title - Towards Robust Image Restoration Using NAS and GANs. 
 
+1. [Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of Westminster.
+- Thesis Title - "..."
 
 <!-- - **University of Messina**, Algoritmi e Strutture Dati [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, Sistemi di Virtualizzazione [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48153)
