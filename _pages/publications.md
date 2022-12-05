@@ -5,7 +5,11 @@ permalink: /publications/
 published: true
 ---
 
-## Journal Papers
+## 2022
+
+<b>Mahima, K.T.Yasas</b>,Weerasekara, Malith, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
+
+<!-- ## Journal Papers -->
 
 <!-- #### 2020
 0. Lorenzo Carnevale and Antonio Celesti and Giacomo Fiumara and Antonino Galletta and Massimo Villari. "*Investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network*". Applied Soft Computing, Elsevier, vol. 90, pp. 106155, ISSN: 1568-4946 (May 2020) (doi: [10.1016/j.asoc.2020.106155](https://doi.org/10.1016/j.asoc.2020.106155)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202005-paper-journal-elsevier-applied_soft_computing.bib)]
