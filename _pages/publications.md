@@ -11,7 +11,7 @@ published: true
 
 [K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Fighting Dengue Fever with Aerial Drones” International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
 
-[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World Adversaries on Autonomous Driving" (2022)  (doi: [10.13140/RG.2.2.10383.05286](https://doi.org10.13140/RG.2.2.10383.05286)) 
+[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World Adversaries on Autonomous Driving" (2022)  (doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))  
 
 [K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. “An Assessment of Robustness for Adversarial Attacks and Physical Distortions on Image Classification using Explainable AI.” AI-Cybersec@SGAI (2022).
 
