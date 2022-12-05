@@ -5,17 +5,26 @@ permalink: /publications/
 published: true
 ---
 
-## 2022
+## 2022 - Present
 
 [K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
 
-[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Fighting Dengue Fever with Aerial Drones” International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
+[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Poster : Fighting Dengue Fever with Aerial Drones." International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
 
-[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World Adversaries on Autonomous Driving" (2022)  (doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))  
+[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World Adversaries on Autonomous Driving." (2022)  (doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))  
 
-[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. “An Assessment of Robustness for Adversarial Attacks and Physical Distortions on Image Classification using Explainable AI.” AI-Cybersec@SGAI (2022).
+[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "An Assessment of Robustness for Adversarial Attacks and Physical Distortions on Image Classification using Explainable AI." AI-Cybersec@SGAI (2022)
 
-## 2021
+## 2021 - 2022
+
+[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "Adversarial Attacks and Defense Technologies on Autonomous Vehicles: A Review." Applied Computer Systems 26 (2021): 96 - 106 (doi: [10.2478/acss-2021-0012](https://doi.org/10.2478/acss-2021-0012)) 
+
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "An Emotion Recognition Based Assistant for Vehicles." 2021 International Conference on Computer Communication and Artificial Intelligence (CCAI) (2021): 1-5 (doi: [10.1109/CCAI50917.2021.9447450](https://doi.org/10.1109/CCAI50917.2021.9447450))
+
+[K.T.Y. Mahima](), T.N.D.S.Ginige and Kasun De Zoysa. "Evaluation of Sentiment Analysis based on AutoML and Traditional Approaches." International Journal of Advanced Computer Science and Applications 12 (2021): n. pag (doi: [10.14569/IJACSA.2021.0120277](http://dx.doi.org/10.14569/IJACSA.2021.0120277))
+
+[K.T.Y. Mahima](), R. A. B. Abeygunawardana and T.N.D.S.Ginige. “Dynamic Traffic Light Controlling System Using Google Maps and IoT.” 2020 From Innovation to Impact (FITI) 1 (2020): 1-5 (doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.9424870))
+
 
 
 <!-- ## Journal Papers -->
