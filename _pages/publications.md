@@ -7,7 +7,11 @@ published: true
 
 ## 2022
 
-<b>Mahima, K.T.Yasas</b>,Weerasekara, Malith, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
+[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
+
+
+[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Fighting Dengue Fever with Aerial Drones” International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
+
 
 <!-- ## Journal Papers -->
 
