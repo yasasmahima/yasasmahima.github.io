@@ -5,7 +5,9 @@ permalink: /publications/
 published: true
 ---
 
-## 2022 - Present
+## Publications
+
+### 2022 - Present
 
 [K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
 
@@ -15,7 +17,7 @@ published: true
 
 [K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "An Assessment of Robustness for Adversarial Attacks and Physical Distortions on Image Classification using Explainable AI." AI-Cybersec@SGAI (2022)
 
-## 2021 - 2022
+### 2021 - 2022
 
 [K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "Adversarial Attacks and Defense Technologies on Autonomous Vehicles: A Review." Applied Computer Systems 26 (2021): 96 - 106 (doi: [10.2478/acss-2021-0012](https://doi.org/10.2478/acss-2021-0012)) 
 
