@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /activities/
+permalink: /News/
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /blog/
+permalink: /experience/
 published: true
 ---
 
