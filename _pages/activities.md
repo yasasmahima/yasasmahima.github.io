@@ -1,9 +1,11 @@
 ---
 title:
 layout: default
-permalink: /News/
+permalink: /news_act/
 published: true
 ---
+
+## News & Activities
 
 <!-- #### Call for Papers
 The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
