@@ -8,8 +8,13 @@ published: true
 ## News & Activities
 
 <!-- - [25-11-2022] : Got a full scholarhip from UNSW Austrlia for a PhD.  -->
-- [03-11-2022]() : Got the Dr Gamini Wickramasinghe Gold Medal (Batch-Top) for the academic excellence. 
-- [03-11-2022]() : Got the Circles.Life Singapore award for the best final year research project. 
+- [07-12-2022]() : Presented an invited talk at the Advanced Information Technology for Mosquito Vector Monitoring and Control workshop. 
+<!-- - [25-11-2022]() : I was offered admission and scholarship to PhD in Engineering at University of New South Wales (UNSW), Austrlia. -->
+- [04-11-2022]() : Received a merit award at the NBQSA National ICT Awards 2022. 
+- [03-11-2022]() : Received the Dr Gamini Wickramasinghe Gold Medal (Batch-Top) for the academic excellence. 
+- [03-11-2022]() : Received the Circles.Life Singapore award for the best final year research project. 
+- [03-11-2022]() : Graduated from the University of Westminster with a First Class Honours degree in Software Engineering. 
+- [04-01-2022]() : Joined Univeristy of Colombo School of Computing (UCSC) as a research assistant.  
 
 <!-- #### Call for Papers
 The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
