@@ -8,8 +8,8 @@ published: true
 ## News & Activities
 
 <!-- - [25-11-2022] : Got a full scholarhip from UNSW Austrlia for a PhD.  -->
-- [03-11-2022] : Got the Dr Gamini Wickramasinghe Gold Medal (Batch-Top) for the academic excellence. 
-- [03-11-2022] : Got the Circles.Life Singapore award for the best final year research project. 
+- [03-11-2022]() : Got the Dr Gamini Wickramasinghe Gold Medal (Batch-Top) for the academic excellence. 
+- [03-11-2022]() : Got the Circles.Life Singapore award for the best final year research project. 
 
 <!-- #### Call for Papers
 The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
