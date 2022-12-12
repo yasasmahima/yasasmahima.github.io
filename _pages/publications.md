@@ -29,9 +29,9 @@ published: true
 
 ## 2020 - 2021
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recom- mendation System for Choosing Machine Learning Algorithms." 2020 12th International Conference on Advanced Infocomm Technology (ICAIT) (2020): 119-123 (doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.9424870))
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recom- mendation System for Choosing Machine Learning Algorithms." 2020 12th International Conference on Advanced Infocomm Technology (ICAIT) (2020): 119-123 (doi: [10.1109/ICAIT51223.2020.9315570](https://doi.org/10.1109/ICAIT51223.2020.9315570))
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "A Secured Healthcare System Using Blockchain and Graph Theory." Proceedings of the 2020 4th International Symposium on Computer Science and Intelligent Control (2020): n. pag (doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.9424870))
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "A Secured Healthcare System Using Blockchain and Graph Theory." Proceedings of the 2020 4th International Symposium on Computer Science and Intelligent Control (2020): n. pag (doi: [10.1145/3440084.3441217](https://doi.org/10.1145/3440084.3441217))
 
 ## Manuscripts In Preparation
 
