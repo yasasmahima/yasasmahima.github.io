@@ -13,7 +13,7 @@ Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, an
 
 Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine Translation for Sinhala-Tamil Language Pair." 24th Annual Conference of The European Association for Machine Translation (EAMT) [Submitted]()]
 
-Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala, Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal of Advanced Computer Science and Applications.(2023) 14. 884.  (doi: [10.14569/IJACSA.2023.0140196](http://dx.doi.org/10.14569/IJACSA.2023.0140196))
+Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala, Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal of Advanced Computer Science and Applications (2023) 14. 884.  (doi: [10.14569/IJACSA.2023.0140196](http://dx.doi.org/10.14569/IJACSA.2023.0140196))
 
 ### 2022 - 2023
 
