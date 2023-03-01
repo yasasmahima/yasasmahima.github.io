@@ -9,6 +9,9 @@ published: true
 
 <!-- - [25-11-2022] : Got a full scholarhip from UNSW Austrlia for a PhD.  -->
 - [07-12-2022]() : Conducted an invited talk at the Advanced Information Technology for Mosquito Vector Monitoring and Control workshop. 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
 <!-- - [25-11-2022]() : I was offered admission and scholarship to PhD in Engineering at University of New South Wales (UNSW), Austrlia. -->
 - [04-11-2022]() : Received a merit award at the NBQSA National ICT Awards 2022. 
 - [03-11-2022]() : Received the Dr Gamini Wickramasinghe Gold Medal (Batch-Top) for the academic excellence. 
