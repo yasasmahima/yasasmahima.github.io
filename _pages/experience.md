@@ -16,6 +16,8 @@ published: true
 ### July 2021 - October 2022
 - [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom
 
+<hr>
+
 ## Industry Experience
 
 ### July 2020 - July 2021
