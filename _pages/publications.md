@@ -7,7 +7,11 @@ published: true
 
 ## Publications
 
-### 2022 - Present
+### 2023 - Present
+
+Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala, Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal of Advanced Computer Science and Applications.(2023) 14. 884.  (doi: [10.14569/IJACSA.2023.0140196](http://dx.doi.org/10.14569/IJACSA.2023.0140196))
+
+### 2022 - 2023
 
 [K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
 

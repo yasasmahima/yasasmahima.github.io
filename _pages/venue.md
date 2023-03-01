@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /venue/
+permalink: /volunteer/
 published: true
 ---
 

@@ -11,10 +11,10 @@ published: true
 - [Visiting Lecturer]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
 
 ### January 2022 - Present
- - [Research Assistant]() - University of Colombo School of Computing (UCSC), Sri Lanka
+- [Research Assistant]() - University of Colombo School of Computing (UCSC), Sri Lanka
  
 ### July 2021 - October 2022
- - [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom
+- [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom
 
 ## Industry Experience
 
