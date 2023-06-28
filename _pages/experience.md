@@ -7,11 +7,11 @@ published: true
 
 ## Academic Experience
 
-### October 2022 - Present
-- [Visiting Lecturer]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
-
 ### January 2022 - Present
 - [Research Assistant]() - University of Colombo School of Computing (UCSC), Sri Lanka
+
+### October 2022 - December 2022
+- [Visiting Lecturer]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
  
 ### July 2021 - October 2022
 - [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom

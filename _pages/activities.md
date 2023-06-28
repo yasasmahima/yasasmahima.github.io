@@ -8,6 +8,7 @@ published: true
 ## News & Activities
 
 <!-- - [25-11-2022] : Got a full scholarhip from UNSW Austrlia for a PhD.  -->
+- [27-07-2023]() : Our paper entitled "CNN-Based Estimation of Water Depth from Multispectral Drone Imagery for Mosquito Control"  accepted for presentation at IEEE ICIP 2023. 
 - [07-12-2022]() : Conducted an invited talk at the Advanced Information Technology for Mosquito Vector Monitoring and Control workshop. 
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/aiKx1GFA1X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- - [25-11-2022]() : I was offered admission and scholarship to PhD in Engineering at University of New South Wales (UNSW), Austrlia. -->
