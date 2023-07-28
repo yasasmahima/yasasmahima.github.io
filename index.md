@@ -14,7 +14,7 @@ As autonomous and unmanned vehicular systems employ artificial intelligence, nov
 
 #### Biography
 
-I am a first year PhD candidate in the School of Engineering & Information Technology at the <a href="https://www.unsw.adfa.edu.au/seit"> University of New South Wales (UNSW) </a>, Canberra ACT, Australia. Prior to that, I worked as a research assistant in computer vision, drones, multispectral image processing and mmWave radar at the <a href="https://ucsc.cmb.ac.lk"> University of Colombo School of Computing (UCSC) </a> collaborated with <a href="https://www.digitalfutures.kth.se">DigitalFutures</a> by KTH, RISE and Uppsala University Sweden. 
+I am a first year `PhD candidate in the School of Engineering & Information Technology at the <a href="https://www.unsw.adfa.edu.au/seit"> University of New South Wales (UNSW) </a>, Canberra ACT, Australia. Prior to that, I worked as a research assistant in computer vision, drones, multispectral image processing and mmWave radar at the <a href="https://ucsc.cmb.ac.lk"> University of Colombo School of Computing (UCSC) </a> collaborated with <a href="https://www.digitalfutures.kth.se">DigitalFutures</a> by KTH, RISE and Uppsala University Sweden. 
 
 Additionally, I was employed by the <a href="https://www.iit.ac.lk">Informatics Institute of Technology (IIT) </a>, Sri Lanka, as a visiting lecturer. There, I taught object-oriented programming and advanced database systems for the University of Westminster undergraduates as well as I co-supervised several undergraduate research projects. 
 
