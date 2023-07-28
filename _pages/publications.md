@@ -8,6 +8,8 @@ published: true
 ## Publications
 
 ### 2023 - Present
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
+Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[Submitted]()]
 
 Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (ICIP) [[Accepted]()]
 
