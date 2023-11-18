@@ -10,15 +10,28 @@ published: true
 - Object Oriented Programming : 5COSC019C
 - Database Systems : 5COSC020C
 
-## Final Year Research Projects (Co-) Supervisor
-1. [Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*", University of Westminster.
-- Thesis Title -  An Improved Generative Adversarial Network with Self-Attention for Image Restoration
+## Final Year Research Projects Primary Supervisor
+1. [Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- Thesis Title -  TBC
 
-2. [Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of Westminster.
+2. [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- Thesis Title -  TBC
+
+3. [Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- Thesis Title -  TBC
+
+4. [Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- Thesis Title -  TBC
+
+## Final Year Research Projects (Co-) Supervisor
+1. [Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*", University of Westminster (2022/23).
+- Thesis Title -  An Improved Generative Adversarial Network with Self-Attention for Image Restoration 
+
+2. [Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of Westminster (2022/23).
 - Thesis Title - Robust Single Image Dehazing and Image Enhancement via Generative Adversarial Networks
 
 ## Teaching Certifications 
-1. UNSW Canberra Graduate Teaching and Training Program (GTTP) - Reading. 
+1. UNSW Canberra Graduate Teaching and Training Program (GTTP) - Completed with a Merit. 
 
 <!-- - **University of Messina**, Algoritmi e Strutture Dati [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, Sistemi di Virtualizzazione [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48153)
