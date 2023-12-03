@@ -9,7 +9,7 @@ published: true
 
 ### 2023 - Present
 
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Exploring Adversarial Robustness of LiDAR Semantic Segmentation in Autonomous Driving" MDPI Sensors [[Submitted]()]
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Exploring Adversarial Robustness of LiDAR Semantic Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sensor Fusion and 3D LiDARs for Vehicle Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))  
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
 Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[Submitted]()]
