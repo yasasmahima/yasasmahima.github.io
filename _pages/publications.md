@@ -8,7 +8,7 @@ published: true
 ## Publications
 
 ### 2024 - Present
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." To be Submitted [[Submitted]()]
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." IROS 2024 [[Submitted]()]
 
 
 ### 2023 - 2024
