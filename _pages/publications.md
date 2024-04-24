@@ -8,6 +8,8 @@ published: true
 ## Publications
 
 ### 2024 - Present
+Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN" MERCon 2024 [[Submitted]()]
+
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." IROS 2024 [[Submitted]()]
 
 

@@ -12,15 +12,15 @@ published: true
 
 ## Final Year Research Projects Primary Supervisor
 1. [Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
-- Thesis Title -  TBC
+- Thesis Title -  FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN
 
 2. [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
-- Thesis Title -  TBC
+- Thesis Title - DeSnowGAN - Generative Adversarial Network Against Snow Corruptions for Camera Based BEV Detectors 
 
-3. [Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
-- Thesis Title -  TBC
+3. [Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- Thesis Title -  XDONoise: Explainable AI-Guided Optimization for Distribution-Optimized Adversarial Noise Attack
 
-4. [Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+4. [Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
 - Thesis Title -  TBC
 
 ## Final Year Research Projects (Co-) Supervisor
