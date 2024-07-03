@@ -8,9 +8,12 @@ published: true
 ## Publications
 
 ### 2024 - Present
-Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN" MERCon 2024 [[Submitted]()]
 
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." IROS 2024 [[Submitted]()]
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
+
+Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN" Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted]()]
+
+
 
 
 ### 2023 - 2024
