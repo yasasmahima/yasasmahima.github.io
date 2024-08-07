@@ -9,55 +9,88 @@ published: true
 
 ### 2024 - Present
 
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
+LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2024 [[Submitted]()]
 
-Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN" Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted]()]
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point
+Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
 
+Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN"
+Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted]()]
 
-
+Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine
+Translation for Sinhala-Tamil Language Pair." The International Journal on Advances in ICT for Emerging Regions 17 (1) (
+doi: [10.4038/icter.v17i1.7274](https://doi.org/10.4038/icter.v17i1.7274))
 
 ### 2023 - 2024
 
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Exploring Adversarial Robustness of LiDAR Semantic Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sensor Fusion and 3D LiDARs for Vehicle Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))  
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Exploring Adversarial Robustness of LiDAR Semantic
+Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sensor Fusion and 3D LiDARs for Vehicle
+Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
-Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[Submitted]()]
+Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (
+T-ITS) [[Submitted]()]
 
-Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (ICIP) [[Accepted]()]
+Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of
+Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (
+ICIP) [[Accepted]()]
 
-Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine Translation for Sinhala-Tamil Language Pair." 24th Annual Conference of The European Association for Machine Translation (EAMT) [[Submitted]()]
-
-Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala, Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal of Advanced Computer Science and Applications (2023) 14. 884.  (doi: [10.14569/IJACSA.2023.0140196](http://dx.doi.org/10.14569/IJACSA.2023.0140196))
+Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala,
+Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal
+of Advanced Computer Science and Applications (2023) 14. 884.  (
+doi: [10.14569/IJACSA.2023.0140196](http://dx.doi.org/10.14569/IJACSA.2023.0140196))
 
 ### 2022 - 2023
 
-[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
+[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "MM4Drone - A
+Multispectral Image and MmWave Radar Approach for Identifying Mosquito Breeding Grounds via Aerial Drones." 16th EAI
+International Conference on Pervasive Computing Technologies for Healthcare (2022) [[bibtex]()]
 
-[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Poster : Fighting Dengue Fever with Aerial Drones." International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
+[K.T.Y. Mahima](), Malith Weerasekara, Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "Poster : Fighting
+Dengue Fever with Aerial Drones." International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
 
-[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World Adversaries on Autonomous Driving." (2022)  (doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))  
+[K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World
+Adversaries on Autonomous Driving." (2022)  (
+doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))
 
-[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "An Assessment of Robustness for Adversarial Attacks and Physical Distortions on Image Classification using Explainable AI." AI-Cybersec@SGAI (2022)
+[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "An Assessment of Robustness for Adversarial Attacks and
+Physical Distortions on Image Classification using Explainable AI." AI-Cybersec@SGAI (2022)
 
 ### 2021 - 2022
 
-[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "Adversarial Attacks and Defense Technologies on Autonomous Vehicles: A Review." Applied Computer Systems 26 (2021): 96 - 106 (doi: [10.2478/acss-2021-0012](https://doi.org/10.2478/acss-2021-0012)) 
+[K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "Adversarial Attacks and Defense Technologies on Autonomous
+Vehicles: A Review." Applied Computer Systems 26 (2021): 96 - 106 (
+doi: [10.2478/acss-2021-0012](https://doi.org/10.2478/acss-2021-0012))
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "An Emotion Recognition Based Assistant for Vehicles." 2021 International Conference on Computer Communication and Artificial Intelligence (CCAI) (2021): 1-5 (doi: [10.1109/CCAI50917.2021.9447450](https://doi.org/10.1109/CCAI50917.2021.9447450))
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "An Emotion Recognition Based Assistant for Vehicles." 2021 International
+Conference on Computer Communication and Artificial Intelligence (CCAI) (2021): 1-5 (
+doi: [10.1109/CCAI50917.2021.9447450](https://doi.org/10.1109/CCAI50917.2021.9447450))
 
-[K.T.Y. Mahima](), T.N.D.S.Ginige and Kasun De Zoysa. "Evaluation of Sentiment Analysis based on AutoML and Traditional Approaches." International Journal of Advanced Computer Science and Applications 12 (2021): n. pag (doi: [10.14569/IJACSA.2021.0120277](http://dx.doi.org/10.14569/IJACSA.2021.0120277))
+[K.T.Y. Mahima](), T.N.D.S.Ginige and Kasun De Zoysa. "Evaluation of Sentiment Analysis based on AutoML and Traditional
+Approaches." International Journal of Advanced Computer Science and Applications 12 (2021): n. pag (
+doi: [10.14569/IJACSA.2021.0120277](http://dx.doi.org/10.14569/IJACSA.2021.0120277))
 
-[K.T.Y. Mahima](), R. A. B. Abeygunawardana and T.N.D.S.Ginige. "Dynamic Traffic Light Controlling System Using Google Maps and IoT." 2020 From Innovation to Impact (FITI) 1 (2020): 1-5 (doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.9424870))
+[K.T.Y. Mahima](), R. A. B. Abeygunawardana and T.N.D.S.Ginige. "Dynamic Traffic Light Controlling System Using Google
+Maps and IoT." 2020 From Innovation to Impact (FITI) 1 (2020): 1-5 (
+doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.9424870))
 
 ### 2020 - 2021
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recom- mendation System for Choosing Machine Learning Algorithms." 2020 12th International Conference on Advanced Infocomm Technology (ICAIT) (2020): 119-123 (doi: [10.1109/ICAIT51223.2020.9315570](https://doi.org/10.1109/ICAIT51223.2020.9315570))
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recom- mendation System for Choosing
+Machine Learning Algorithms." 2020 12th International Conference on Advanced Infocomm Technology (ICAIT) (2020):
+119-123 (doi: [10.1109/ICAIT51223.2020.9315570](https://doi.org/10.1109/ICAIT51223.2020.9315570))
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "A Secured Healthcare System Using Blockchain and Graph Theory." Proceedings of the 2020 4th International Symposium on Computer Science and Intelligent Control (2020): n. pag (doi: [10.1145/3440084.3441217](https://doi.org/10.1145/3440084.3441217))
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "A Secured Healthcare System Using Blockchain and Graph Theory." Proceedings of
+the 2020 4th International Symposium on Computer Science and Intelligent Control (2020): n. pag (
+doi: [10.1145/3440084.3441217](https://doi.org/10.1145/3440084.3441217))
 
 ### Manuscripts In Preparation
 
-Bandara, Arosha, Danny Barthaud, Jacob Blamey, [K.T.Y. Mahima](), Gavin Moir, Bashar Nu- seibeh, Blaine Price, Anthony Rushton, Yijun Yu, and Andrea Zisman. An extended version of the paper entitled : "LiveBox: A Self-Adaptive Forensic-Ready Service for Drones". IEEE Computer
+Bandara, Arosha, Danny Barthaud, Jacob Blamey, [K.T.Y. Mahima](), Gavin Moir, Bashar Nu- seibeh, Blaine Price, Anthony
+Rushton, Yijun Yu, and Andrea Zisman. An extended version of the paper entitled : "LiveBox: A Self-Adaptive
+Forensic-Ready Service for Drones". IEEE Computer
 
 
 
