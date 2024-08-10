@@ -17,7 +17,7 @@ Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots a
 2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
 
 Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN"
-Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted]()]
+Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted - Best Paper Award in the Image Processing and Computer Vision Track]()]
 
 Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine
 Translation for Sinhala-Tamil Language Pair." The International Journal on Advances in ICT for Emerging Regions 17 (1) (
