@@ -6,8 +6,10 @@ published: true
 ---
 
 ## Academic Experience
+### May 2023 - Present
+- [Research Consultant]() - University of Southern Queensland (UniSQ), Brisbane, Australia
 
-### January 2022 - Present
+### January 2022 - April 2023
 - [Research Assistant]() - University of Colombo School of Computing (UCSC), Sri Lanka
 
 ### October 2022 - December 2022

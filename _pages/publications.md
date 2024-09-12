@@ -8,6 +8,9 @@ published: true
 ## Publications
 
 ### 2024 - Present
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
+Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (
+T-ITS) [[Accepted]()]
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
 LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2024 [[Submitted]()]
@@ -28,10 +31,6 @@ doi: [10.4038/icter.v17i1.7274](https://doi.org/10.4038/icter.v17i1.7274))
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Exploring Adversarial Robustness of LiDAR Semantic
 Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sensor Fusion and 3D LiDARs for Vehicle
 Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))
-
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
-Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (
-T-ITS) [[Submitted]()]
 
 Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of
 Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (
