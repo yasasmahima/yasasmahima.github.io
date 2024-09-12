@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /research/
+permalink: /grants/
 published: true
 ---
 
