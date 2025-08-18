@@ -7,21 +7,29 @@ published: true
 
 ## Publications
 
-### 2024 - Present
+### 2025 - Present
+
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowInject: A Security Analysis of Spoofed Point
+Injection Attacks against LiDAR Scene Flow Estimation" IEEE Transactions on Intelligent Vehicles 2025 [[Submitted]()]
+
+[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
+LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2025 (
+doi: [10.1016/j.patrec.2025.02.029](https://doi.org/10.1016/j.patrec.2025.02.029))
+
+### 2024 - 2025
+
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
 Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (
 T-ITS) (
 doi: [10.1109/TITS.2024.3456293](https://doi.org/10.1109/TITS.2024.3456293))
-
-[K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
-LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2024 [[Submitted]()]
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point
 Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
 
 Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN"
-Moratuwa Engineering Research Conference (MERCon) 2024 [[Accepted - Best Paper Award in the Image Processing and Computer Vision Track]()]
+Moratuwa Engineering Research Conference (MERCon)
+2024 [[Accepted - Best Paper Award in the Image Processing and Computer Vision Track]()]
 
 Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine
 Translation for Sinhala-Tamil Language Pair." The International Journal on Advances in ICT for Emerging Regions 17 (1) (
@@ -34,7 +42,8 @@ Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sens
 Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))
 
 Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of
-Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (ICIP) [[Accepted]()]
+Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (
+ICIP) [[Accepted]()]
 
 Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala,
 Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal

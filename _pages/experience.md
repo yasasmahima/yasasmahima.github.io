@@ -6,14 +6,14 @@ published: true
 ---
 
 ## Academic Experience
-### May 2023 - Present
-- [Research Consultant]() 
+### May 2024 - April 2025
+- [Research Consultant (Computer Vision and AI)]()  - University of Southern Queensland, Brisbane, Australia. 
 
 ### January 2022 - April 2023
-- [Research Assistant]() - University of Colombo School of Computing (UCSC), Sri Lanka
+- [Research Assistant (Computer Vision)]() - University of Colombo School of Computing (UCSC), Sri Lanka
 
-### October 2022 - December 2022
-- [Visiting Lecturer]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
+### November 2022 - April 2025
+- [Visiting Lecturer and Project Supervisor]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
  
 ### July 2021 - October 2022
 - [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom
@@ -25,5 +25,5 @@ published: true
 ### July 2020 - July 2021
 - [Trainee Associate Big Data And Data Science Engineer]() - Zone24x7 Inc, Sri Lanka
 
-### July 2019 - March 2020
+### June 2019 - October 2020
 - [Trainee Associate Software Engineer]() - RevportX, Sri Lanka
