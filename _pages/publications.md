@@ -12,6 +12,9 @@ published: true
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowInject: A Security Analysis of Spoofed Point
 Injection Attacks against LiDAR Scene Flow Estimation" IEEE Transactions on Intelligent Vehicles 2025 [[Submitted]()]
 
+Ramindu Walgama, [K.T.Y. Mahima](), Ajantha Atukorale. "AdvDet: Diffusion Inspired Image Watermarking Against
+Adversarial Attacks" [[Submitted]()]
+
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
 LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2025 (
 doi: [10.1016/j.patrec.2025.02.029](https://doi.org/10.1016/j.patrec.2025.02.029))
@@ -25,11 +28,12 @@ doi: [10.1109/TITS.2024.3456293](https://doi.org/10.1109/TITS.2024.3456293))
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point
 Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-2024 [[Accepted]()] [[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]
+2024 [[Accepted]()]
+<!--[[Project Page](https://yasasmahima.github.io/3DR-DIFF.github.io/)]--->
 
 Ramindu Walgama, [K.T.Y. Mahima](). "FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN"
-Moratuwa Engineering Research Conference (MERCon)
-2024 [[Accepted - Best Paper Award in the Image Processing and Computer Vision Track]()]
+Moratuwa Engineering Research Conference (MERCon) 2024 (doi: [10.1109/MERCon63886.2024.10688983]())
+ [[Best Paper Award in the Image Processing and Computer Vision Track]()]
 
 Ashmari Pramodya, [K.T.Y. Mahima](), Randil Pushpananda, Ruvan Weerasinghe. "Exploring Low-resource Neural Machine
 Translation for Sinhala-Tamil Language Pair." The International Journal on Advances in ICT for Emerging Regions 17 (1) (
@@ -86,7 +90,7 @@ doi: [10.1109/FITI52050.2020.9424870](https://doi.org/10.1109/FITI52050.2020.942
 
 ### 2020 - 2021
 
-[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recom- mendation System for Choosing
+[K.T.Y. Mahima]() and T.N.D.S.Ginige. "Graph and Natural Language Processing Based Recommendation System for Choosing
 Machine Learning Algorithms." 2020 12th International Conference on Advanced Infocomm Technology (ICAIT) (2020):
 119-123 (doi: [10.1109/ICAIT51223.2020.9315570](https://doi.org/10.1109/ICAIT51223.2020.9315570))
 
@@ -94,11 +98,13 @@ Machine Learning Algorithms." 2020 12th International Conference on Advanced Inf
 the 2020 4th International Symposium on Computer Science and Intelligent Control (2020): n. pag (
 doi: [10.1145/3440084.3441217](https://doi.org/10.1145/3440084.3441217))
 
+<!--
 ### Manuscripts In Preparation
 
 Bandara, Arosha, Danny Barthaud, Jacob Blamey, [K.T.Y. Mahima](), Gavin Moir, Bashar Nu- seibeh, Blaine Price, Anthony
 Rushton, Yijun Yu, and Andrea Zisman. An extended version of the paper entitled : "LiveBox: A Self-Adaptive
 Forensic-Ready Service for Drones". IEEE Computer
+-->
 
 
 
