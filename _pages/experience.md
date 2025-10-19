@@ -8,7 +8,7 @@ published: true
 ## Experience
 ### September 2025 - Present
 - [Research Engineer]()  - University of Southern Queensland, Brisbane, Australia.
-- 
+
 ### May 2024 - April 2025
 - [Research Consultant in Computer Vision and AI]()  - University of Southern Queensland, Brisbane, Australia. 
 
