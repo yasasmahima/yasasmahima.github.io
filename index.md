@@ -17,11 +17,15 @@ public health, and safety.
 
 #### Biography
 
-I am a third-year PhD candidate in the School of Engineering Technology at
+I am a final-year PhD candidate <strong>  (Submit Soon.) </strong> in the School of Engineering Technology at
 the <a href="https://www.unsw.adfa.edu.au/seit">University of New South Wales (UNSW)</a>, Canberra, ACT, Australia.
-During my PhD, I worked as a Research Consultant in AI and Computer Vision at the <a href="https://www.unisq.edu.au/">
-University of Southern Queensland</a>, Brisbane, Australia, on a project in collaboration with the Robotic and
-Autonomous Systems Implementation & Coordination Office (RICO) of the Australian Army.
+I am currently working as a Research Assistant in AI and Computer Vision at the
+  <a href="https://www.unisq.edu.au/" target="_blank" rel="noopener noreferrer">
+    University of Southern Queensland
+  </a>
+  in Brisbane, Australia. In addition, I supervise undergraduate students undertaking
+  research projects at <a href="https://www.iit.ac.lk">Informatics Institute of Technology (IIT)</a> Sri Lanka, which is affiliated with the University of
+  Westminster, UK, and the <a href = "https://ucsc.cmb.ac.lk/"> University of Colombo School of Computing (UCSC)</a>, Sri Lanka. 
 
 Prior to starting my PhD, I worked as a research assistant in computer vision, drones, multispectral image processing,
 and mmWave radar at the <a href="https://ucsc.cmb.ac.lk">University of Colombo School of Computing (UCSC)</a>, in
