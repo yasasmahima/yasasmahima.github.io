@@ -5,6 +5,15 @@ permalink: /teaching/
 published: true
 ---
 
+## Teaching Material Preparation
+
+1. University of New South Wales (UNSW), Canberra, Australia
+
+- Module: Introduction to Robotics and Autonomous Systems
+  - Lecture 1: Robotic Sensors
+  - Lecture 2: Deep Learning for Robotics 
+  - Quizzes
+
 ## Classes
 
 1. Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
