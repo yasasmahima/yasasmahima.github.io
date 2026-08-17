@@ -9,14 +9,17 @@ published: true
 ### September 2025 - Present
 - [Research Engineer]()  - University of Southern Queensland, Brisbane, Australia.
 
+### March 2026 - July 2026
+- [Casual Academic]()  - University of New South Wales, Canberra, Australia.
+
 ### May 2024 - April 2025
-- [Research Consultant in Computer Vision and AI]()  - University of Southern Queensland, Brisbane, Australia. 
+- [Software Engineering Specialist - Computer Vision and AI]()  - University of Southern Queensland, Brisbane, Australia. 
 
 ### January 2022 - April 2023
 - [Research Assistant in Computer Vision]() - University of Colombo School of Computing (UCSC), Sri Lanka
 
-### November 2022 - April 2025
-- [Visiting Lecturer and Project Supervisor]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom
+### November 2022 - Present
+- [Visiting Lecturer and Project Supervisor]() - Informatics Institute of Technology (IIT), Sri Lanka affiliated with the University of Westminster, United Kingdom and University of Colombo School of Computing (UCSC)
  
 ### July 2021 - October 2022
 - [Undergraduate Research Fellow (Remote)]() - SEAD Research Group, The Open University, United Kingdom

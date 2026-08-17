@@ -9,11 +9,13 @@ published: true
 
 ### 2025 - Present
 
+Sandesh Shrestha, [K.T.Y. Mahima](), Asanka Perera. "Adversarial Patch and Camouflage Attacks on Aerial Object Detection: A Geometry-Aware Review" [[Under Review]()]
+
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowInject: A Security Analysis of Spoofed Point
-Injection Attacks against LiDAR Scene Flow Estimation" IEEE Transactions on Intelligent Vehicles 2025 [[Submitted]()]
+Injection Attacks against LiDAR Scene Flow Estimation" [[Revise and Resubmit]()]
 
 Ramindu Walgama, [K.T.Y. Mahima](), Ajantha Atukorale. "AdvDet: Diffusion Inspired Image Watermarking Against
-Adversarial Attacks" [[Submitted]()]
+Adversarial Attacks" Advanced Concepts for Intelligent Vision Systems 2026 [[Accepted]()]
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowCraft: Unveiling Adversarial Robustness of
 LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2025 (
