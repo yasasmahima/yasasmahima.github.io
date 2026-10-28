@@ -20,6 +20,7 @@ published: true
 
 - Object Oriented Programming : 5COSC019C
 - Database Systems : 5COSC020C
+- Concurrent Programming : 6SENG006W
 
 ## Final Year Research Projects Primary Supervisor
 
