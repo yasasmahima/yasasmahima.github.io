@@ -17,9 +17,9 @@ public health, and safety.
 
 #### Biography
 
-I am a final-year PhD candidate <strong>  (Submit Soon.) </strong> in the School of Engineering Technology at
+I am a final-year PhD candidate <strong>  (Thesis under examination) </strong> in the School of Engineering Technology at
 the <a href="https://www.unsw.adfa.edu.au/seit">University of New South Wales (UNSW)</a>, Canberra, ACT, Australia.
-I am currently working as a Research Assistant in AI and Computer Vision at the
+I am currently working as a Research Assistant in AI and Computer Vision and Casual Academic at the
   <a href="https://www.unisq.edu.au/" target="_blank" rel="noopener noreferrer">
     University of Southern Queensland
   </a>
