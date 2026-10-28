@@ -19,7 +19,7 @@ public health, and safety.
 
 I am a final-year PhD candidate <strong>  (Thesis under examination) </strong> in the School of Engineering Technology at
 the <a href="https://www.unsw.adfa.edu.au/seit">University of New South Wales (UNSW)</a>, Canberra, ACT, Australia.
-I am currently working as a Research Assistant in AI and Computer Vision and Casual Academic at the
+I am currently working as a Research Assistant in AI and Computer Vision and as a Casual Academic at the
   <a href="https://www.unisq.edu.au/" target="_blank" rel="noopener noreferrer">
     University of Southern Queensland
   </a>
