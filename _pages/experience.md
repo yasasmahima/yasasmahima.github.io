@@ -6,8 +6,11 @@ published: true
 ---
 
 ## Experience
+### October 2026 - Present
+- [Casual Academic]()  - University of Southern Queensland, Brisbane, Australia.
+  
 ### September 2025 - Present
-- [Research Engineer]()  - University of Southern Queensland, Brisbane, Australia.
+- [Research Assistant]()  - University of Southern Queensland, Brisbane, Australia.
 
 ### March 2026 - July 2026
 - [Casual Academic]()  - University of New South Wales, Canberra, Australia.
