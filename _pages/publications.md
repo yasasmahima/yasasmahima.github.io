@@ -9,7 +9,8 @@ published: true
 
 ### 2025 - Present
 
-Sandesh Shrestha, [K.T.Y. Mahima](), Asanka Perera. "Adversarial Patch and Camouflage Attacks on Aerial Object Detection: A Geometry-Aware Review" [[Under Review]()]
+Sandesh Shrestha, [K.T.Y. Mahima](), Asanka Perera. "Adversarial Patch and Camouflage Attacks on Aerial Object Detection: A Geometry-Aware Review." Sensors 26.19 (2026): 6057 (
+doi: [10.3390/s26196057](https://doi.org/10.3390/s26196057))
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "FlowInject: A Security Analysis of Spoofed Point
 Injection Attacks against LiDAR Scene Flow Estimation" [[Revise and Resubmit]()]
