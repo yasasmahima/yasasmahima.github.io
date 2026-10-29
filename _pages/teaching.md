@@ -16,8 +16,8 @@ published: true
     - Lecture 2: Deep Learning for Robotics 
     - Quizzes
 
-* Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
 
+- Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
   - Modules: 
     - Object Oriented Programming : 5COSC019C
     - Database Systems : 5COSC020C
@@ -25,41 +25,38 @@ published: true
 
 ## Final Year Research Projects Primary Supervisor
 
-[Ramindu Walgama](), "*BSc (Hons) Computer Science*", University of Colombo School of Computing (2024/25).
+ - [Ramindu Walgama](), "*BSc (Hons) Computer Science*", University of Colombo School of Computing (2024/25).
+   - Thesis Title - Diffusion Inspired Image Watermarking against Adversarial Attacks
 
-- Thesis Title - Diffusion Inspired Image Watermarking against Adversarial Attacks
 
-[Anouk Udumalagala](), "*BEng (Hons) Software Engineering*", University of Westminster (2024/25).
+- [Anouk Udumalagala](), "*BEng (Hons) Software Engineering*", University of Westminster (2024/25).
+  - Thesis Title - D3-ND: Diffusion-Driven Depth Estimation using NIR Data
 
-- Thesis Title - D3-ND: Diffusion-Driven Depth Estimation using NIR Data
 
-[Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- [Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+  - Thesis Title - FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN
 
-- Thesis Title - FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN
 
- [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+  - Thesis Title - DeSnowGAN - Generative Adversarial Network Against Snow Corruptions for Camera Based BEV Detectors
 
-- Thesis Title - DeSnowGAN - Generative Adversarial Network Against Snow Corruptions for Camera Based BEV Detectors
 
-[Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+- [Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+  - Thesis Title - XDONoise: Explainable AI-Guided Optimization for Distribution-Optimized Adversarial Noise Attack
 
-- Thesis Title - XDONoise: Explainable AI-Guided Optimization for Distribution-Optimized Adversarial Noise Attack
 
-[Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
-
-- Thesis Title - SMOKEBLITZ: Smoke Removal from Images Using Generative Adversarial Networks
+- [Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+  - Thesis Title - SMOKEBLITZ: Smoke Removal from Images Using Generative Adversarial Networks
 
 ## Final Year Research Projects (Co-) Supervisor
 
-[Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*",
+- [Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*",
    University of Westminster (2022/23).
+  - Thesis Title - An Improved Generative Adversarial Network with Self-Attention for Image Restoration
 
-- Thesis Title - An Improved Generative Adversarial Network with Self-Attention for Image Restoration
-
-[Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of
+- [Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of
    Westminster (2022/23).
-
-- Thesis Title - Robust Single Image Dehazing and Image Enhancement via Generative Adversarial Networks
+  - Thesis Title - Robust Single Image Dehazing and Image Enhancement via Generative Adversarial Networks
 
 ## Teaching Certifications
 
