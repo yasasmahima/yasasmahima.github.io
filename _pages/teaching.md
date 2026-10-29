@@ -6,66 +6,64 @@ published: true
 ---
 
 ## Teaching, Lecture Material Preparation and Marking 
-1. University of Southern Queensland (UniSQ)
+- University of Southern Queensland (UniSQ)
+  - Module: Professional Mechatronics & Robotic Engineering Advanced Topics
 
-- Module: Professional Mechatronics & Robotic Engineering Advanced Topics
 
+- University of New South Wales (UNSW), Canberra, Australia
+  - Module: Introduction to Robotics and Autonomous Systems
+    - Lecture 1: Robotic Sensors
+    - Lecture 2: Deep Learning for Robotics 
+    - Quizzes
 
-2. University of New South Wales (UNSW), Canberra, Australia
+* Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
 
-- Module: Introduction to Robotics and Autonomous Systems
-  - Lecture 1: Robotic Sensors
-  - Lecture 2: Deep Learning for Robotics 
-  - Quizzes
-
-3. Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
-
-- Modules: 
-  - Object Oriented Programming : 5COSC019C
-  - Database Systems : 5COSC020C
-  - Concurrent Programming : 6SENG006W
+  - Modules: 
+    - Object Oriented Programming : 5COSC019C
+    - Database Systems : 5COSC020C
+    - Concurrent Programming : 6SENG006W
 
 ## Final Year Research Projects Primary Supervisor
 
-1. [Ramindu Walgama](), "*BSc (Hons) Computer Science*", University of Colombo School of Computing (2024/25).
+[Ramindu Walgama](), "*BSc (Hons) Computer Science*", University of Colombo School of Computing (2024/25).
 
 - Thesis Title - Diffusion Inspired Image Watermarking against Adversarial Attacks
 
-2. [Anouk Udumalagala](), "*BEng (Hons) Software Engineering*", University of Westminster (2024/25).
+[Anouk Udumalagala](), "*BEng (Hons) Software Engineering*", University of Westminster (2024/25).
 
 - Thesis Title - D3-ND: Diffusion-Driven Depth Estimation using NIR Data
 
-3. [Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+[Ramindu Walgama](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
 
 - Thesis Title - FL-CycleGAN: Enhancing Mobile Photography with Federated Learning-Enabled CycleGAN
 
-4. [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+ [Sashin Sahsra](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
 
 - Thesis Title - DeSnowGAN - Generative Adversarial Network Against Snow Corruptions for Camera Based BEV Detectors
 
-5. [Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+[Kavishka Ganewattha](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
 
 - Thesis Title - XDONoise: Explainable AI-Guided Optimization for Distribution-Optimized Adversarial Noise Attack
 
-6. [Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
+[Isuru Atthanayake](), "*BEng (Hons) Software Engineering*", University of Westminster (2023/24).
 
 - Thesis Title - SMOKEBLITZ: Smoke Removal from Images Using Generative Adversarial Networks
 
 ## Final Year Research Projects (Co-) Supervisor
 
-1. [Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*",
+[Ruchira Sahabandu](https://www.linkedin.com/in/ruchira-sahabandu-57b154160/), "*BSc (Hons) Computer Science*",
    University of Westminster (2022/23).
 
 - Thesis Title - An Improved Generative Adversarial Network with Self-Attention for Image Restoration
 
-2. [Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of
+[Ashfaaq Ahamed](https://www.linkedin.com/in/ashfaaq-ahamed/), "*BEng (Hons) Software Engineering*", University of
    Westminster (2022/23).
 
 - Thesis Title - Robust Single Image Dehazing and Image Enhancement via Generative Adversarial Networks
 
 ## Teaching Certifications
 
-1. UNSW Canberra Graduate Teaching and Training Program (GTTP) - Completed with a Merit.
+UNSW Canberra Graduate Teaching and Training Program (GTTP) - Completed with a Merit.
 
 <!-- - **University of Messina**, Algoritmi e Strutture Dati [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, Sistemi di Virtualizzazione [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48153)
