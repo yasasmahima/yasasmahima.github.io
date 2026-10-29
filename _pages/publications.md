@@ -45,8 +45,7 @@ Segmentation in Autonomous Driving" MDPI Sensors: Special Issue Multi-Modal Sens
 Applications (doi: [10.3390/s23239579](http://dx.doi.org/10.3390/s23239579))
 
 Qianyao Shen, [K.T.Y. Mahima](), Kasun De Zoysa, Markus Flierl, Luca Mottola, and Thiemo Voigt. "CNN-Based Estimation of
-Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (
-ICIP) [[Accepted]()]
+Water Depth from Multispectral Drone Imagery for Mosquito Control." IEEE International Conference on Image Processing (ICIP) [[Accepted]()]
 
 Damitha Sandaruwan, N.D.Kodikara, Piyumi Radeeshani, [K.T.Y. Mahima](), Chathura Suduwella, Sachintha Pitigala,
 Mangalika Jayasundara. "User Perceive Realism of Machine Learning-based Drone Dynamic Simulator." International Journal
@@ -62,8 +61,7 @@ International Conference on Pervasive Computing Technologies for Healthcare (202
 Dengue Fever with Aerial Drones." International Conference on Embedded Wireless Systems and Networks (EWSN) (2022)
 
 [K.T.Y. Mahima](). "ATERT : A General Defense Framework for Defending against Adversarial Attacks and Physical World
-Adversaries on Autonomous Driving." (2022)  (
-doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))
+Adversaries on Autonomous Driving." (2022)  (doi: [10.13140/RG.2.2.10383.05286](http://dx.doi.org/10.13140/RG.2.2.10383.05286))
 
 [K.T.Y. Mahima](), Mohamed Ayoob and Guhanathan Poravi. "An Assessment of Robustness for Adversarial Attacks and
 Physical Distortions on Image Classification using Explainable AI." AI-Cybersec@SGAI (2022)
