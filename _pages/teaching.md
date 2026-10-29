@@ -5,22 +5,25 @@ permalink: /teaching/
 published: true
 ---
 
-## Teaching Material Preparation
+## Teaching, Lecture Material Preparation and Marking 
+1. University of Southern Queensland (UniSQ)
 
-1. University of New South Wales (UNSW), Canberra, Australia
+- Module: Professional Mechatronics & Robotic Engineering Advanced Topics
+
+
+2. University of New South Wales (UNSW), Canberra, Australia
 
 - Module: Introduction to Robotics and Autonomous Systems
   - Lecture 1: Robotic Sensors
   - Lecture 2: Deep Learning for Robotics 
   - Quizzes
 
-## Classes
+3. Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
 
-1. Computing School, Informatics Institute of Technology (IIT) affliated with University of Westminster UK.
-
-- Object Oriented Programming : 5COSC019C
-- Database Systems : 5COSC020C
-- Concurrent Programming : 6SENG006W
+- Modules: 
+  - Object Oriented Programming : 5COSC019C
+  - Database Systems : 5COSC020C
+  - Concurrent Programming : 6SENG006W
 
 ## Final Year Research Projects Primary Supervisor
 
