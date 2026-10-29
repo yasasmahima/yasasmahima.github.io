@@ -23,8 +23,7 @@ LiDAR Scene Flow Estimation" Elsevier Pattern Recognition Letters Journal 2025 (
 ### 2024 - 2025
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "Towards Robust 3D Perception for Autonomous
-Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (
-T-ITS) (doi: [10.1109/TITS.2024.3456293](https://doi.org/10.1109/TITS.2024.3456293))
+Vehicles: A Review of Adversarial Attacks and Countermeasures" IEEE Transactions on Intelligent Transportation Systems (T-ITS) (doi: [10.1109/TITS.2024.3456293](https://doi.org/10.1109/TITS.2024.3456293))
 
 [K.T.Y. Mahima](), Asanka Perera, Sreenatha Anavatti, Matt Garratt. "3DR-DIFF: Blind Diffusion Inpainting for 3D Point
 Cloud Reconstruction." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
